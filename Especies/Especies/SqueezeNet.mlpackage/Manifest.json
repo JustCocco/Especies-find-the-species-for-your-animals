@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "A5E97226-6E29-4D90-8ECE-B0735038BB74": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "C676784C-E070-4A75-A542-894CCD973110": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "E1CA88E4-9CDE-4BF7-9637-A747DAF105B9": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "SqueezeNet.mlmodel",
+            "path": "com.apple.CoreML/SqueezeNet.mlmodel"
+        }
+    },
+    "rootModelIdentifier": "E1CA88E4-9CDE-4BF7-9637-A747DAF105B9"
+}
